@@ -1,0 +1,1 @@
+CREATE DATABASE Clave5_Grupo6;
